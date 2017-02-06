@@ -5,8 +5,25 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:BasicCalculator"
         mc:Ignorable="d"
-        Title="MainWindow" Height="350" Width="525">
+        Title="Calculator" Height="350" Width="525" Background="{x:Null}">
     <Grid>
-        
+        <Grid HorizontalAlignment="Left" Height="319" VerticalAlignment="Center" Width="517" OpacityMask="Black">
+            <Button x:Name="_1" Content="1" HorizontalAlignment="Left" Height="60" Margin="10,70,0,0" VerticalAlignment="Top" Width="60" FontSize="30" FontWeight="Bold"/>
+            <Button x:Name="_2" Content="2" HorizontalAlignment="Left" Height="60" Margin="70,70,0,0" VerticalAlignment="Top" Width="60" FontSize="30" FontWeight="Bold"/>
+            <Button x:Name="_3" Content="3" HorizontalAlignment="Left" Height="60" Margin="130,70,0,0" VerticalAlignment="Top" Width="60" FontSize="30" FontWeight="Bold"/>
+            <Button x:Name="_4" Content="4" HorizontalAlignment="Left" Height="60" Margin="10,130,0,0" VerticalAlignment="Top" Width="60" FontSize="30" FontWeight="Bold"/>
+            <Button x:Name="_5" Content="5" HorizontalAlignment="Left" Height="60" Margin="70,130,0,0" VerticalAlignment="Top" Width="60" FontSize="30" FontWeight="Bold"/>
+            <Button x:Name="_6" Content="6" HorizontalAlignment="Left" Height="60" Margin="130,130,0,0" VerticalAlignment="Top" Width="60" FontSize="30" FontWeight="Bold"/>
+            <Button x:Name="_7" Content="7" HorizontalAlignment="Left" Height="60" Margin="10,190,0,0" VerticalAlignment="Top" Width="60" FontSize="30" FontWeight="Bold"/>
+            <Button x:Name="_8" Content="8" HorizontalAlignment="Left" Height="60" Margin="70,190,0,0" VerticalAlignment="Top" Width="60" FontSize="30" FontWeight="Bold"/>
+            <Button x:Name="_9" Content="9" HorizontalAlignment="Left" Height="60" Margin="130,190,0,0" VerticalAlignment="Top" Width="60" FontSize="30" FontWeight="Bold"/>
+            <Button x:Name="_0" Content="0" HorizontalAlignment="Left" Height="60" Margin="70,250,0,0" VerticalAlignment="Top" Width="60" FontSize="30" FontWeight="Bold"/>
+            <TextBox x:Name="inOut" HorizontalAlignment="Left" Height="55" Margin="10,10,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="497" Background="#FFC7830B" OpacityMask="#FFC7830B" Opacity="0.3" FontSize="30"/>
+            <Button x:Name="plus" Content="+" HorizontalAlignment="Left" Height="60" Margin="220,70,0,0" VerticalAlignment="Top" Width="60" FontSize="30" FontWeight="Bold"/>
+            <Button x:Name="minus" Content="-" HorizontalAlignment="Left" Height="60" Margin="280,70,0,0" VerticalAlignment="Top" Width="60" FontSize="30" FontWeight="Bold"/>
+            <Button x:Name="times" Content="x" HorizontalAlignment="Left" Height="60" Margin="340,70,0,0" VerticalAlignment="Top" Width="60" FontSize="30" FontWeight="Bold"/>
+            <Button x:Name="div" Content="/" HorizontalAlignment="Left" Height="60" Margin="400,70,0,0" VerticalAlignment="Top" Width="60" FontSize="30" FontWeight="Bold"/>
+        </Grid>
+
     </Grid>
 </Window>

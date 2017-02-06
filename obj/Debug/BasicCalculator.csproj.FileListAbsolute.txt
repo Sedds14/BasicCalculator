@@ -1,1 +1,14 @@
 c:\users\cased_000\documents\visual studio 2015\Projects\BasicCalculator\BasicCalculator\bin\Debug\BasicCalculator.exe.config
+c:\users\cased_000\documents\visual studio 2015\Projects\BasicCalculator\BasicCalculator\bin\Debug\BasicCalculator.exe
+c:\users\cased_000\documents\visual studio 2015\Projects\BasicCalculator\BasicCalculator\bin\Debug\BasicCalculator.pdb
+c:\users\cased_000\documents\visual studio 2015\Projects\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.csprojResolveAssemblyReference.cache
+c:\users\cased_000\documents\visual studio 2015\Projects\BasicCalculator\BasicCalculator\obj\Debug\MainWindow.g.cs
+c:\users\cased_000\documents\visual studio 2015\Projects\BasicCalculator\BasicCalculator\obj\Debug\App.g.cs
+c:\users\cased_000\documents\visual studio 2015\Projects\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator_MarkupCompile.cache
+c:\users\cased_000\documents\visual studio 2015\Projects\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator_MarkupCompile.lref
+c:\users\cased_000\documents\visual studio 2015\Projects\BasicCalculator\BasicCalculator\obj\Debug\MainWindow.baml
+c:\users\cased_000\documents\visual studio 2015\Projects\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.g.resources
+c:\users\cased_000\documents\visual studio 2015\Projects\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.Properties.Resources.resources
+c:\users\cased_000\documents\visual studio 2015\Projects\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.csproj.GenerateResource.Cache
+c:\users\cased_000\documents\visual studio 2015\Projects\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.exe
+c:\users\cased_000\documents\visual studio 2015\Projects\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.pdb
