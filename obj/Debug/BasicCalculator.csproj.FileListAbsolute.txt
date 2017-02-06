@@ -1,0 +1,1 @@
+c:\users\cased_000\documents\visual studio 2015\Projects\BasicCalculator\BasicCalculator\bin\Debug\BasicCalculator.exe.config
